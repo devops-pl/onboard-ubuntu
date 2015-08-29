@@ -1,5 +1,5 @@
 # onboard-ubuntu
 tools to onboard new ubuntu server
 ==============
-install-docker : install docker-engine to new server removing old docker.io
-
+docker : install docker-engine to new server removing old docker.io
+nginx.tgz  : ```( cd /;tar zxf nginx.tgz )``` to install nginx
